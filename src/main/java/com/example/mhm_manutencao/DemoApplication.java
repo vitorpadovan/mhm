@@ -19,5 +19,4 @@ public class DemoApplication {
     String home() {
       return "Hello World!";
     }
-
 }
